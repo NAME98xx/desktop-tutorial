@@ -3,6 +3,15 @@
 从sstap rule搬运
 推荐的机场SockBoom
 https://jsqpro.live/auth/register?aff=22217
+请尽量点击AFF给我赚点零花钱
+官网
+https://jsqpro.live
+https://jsqssr.com
+https://jsqssr.co
+https://jsqssr.pro
+https://sockboom.store
+
+
 
 例子策略组需要新建Game全局
 然后添加规则集到surge
